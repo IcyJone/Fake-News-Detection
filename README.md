@@ -9,5 +9,3 @@ https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
 2. Install the required dependencies using the following command: pip install -r requirements.txt
 3. Update the dataset paths.
 4. Run the script to train the model and make predictions.
-
-https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
