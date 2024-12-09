@@ -1,0 +1,15 @@
+# Ignore virtual environment folder
+myenv/
+
+# Ignore dataset folder
+News_dataset/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore macOS specific files
+.DS_Store
